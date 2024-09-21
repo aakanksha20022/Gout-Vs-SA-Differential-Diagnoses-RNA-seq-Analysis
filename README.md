@@ -3,7 +3,7 @@ GoutVSSepticArthritis
 Gout and Septic Arthritis have very similar clinical representations, making it difficult to differentially diagnose one from the other. This analysis attempts to establish a genetic basis for 
 this and discover genes which are differentially expressed in both conditions. The dataset includes:
 
-1.The table of expression values by Gene (row) and Sample (column)
+1. The table of expression values by Gene (row) and Sample (column)
 2. A sample information sheet, listing important clinical information about each sample
 3. An annotation file – linking gene ID to gene name.
 4. Two differential files (log2fold, p, adjusted p), comparing Healthy to Gout and Healthy to SA. 
